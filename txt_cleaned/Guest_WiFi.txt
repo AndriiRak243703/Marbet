@@ -1,0 +1,11 @@
+ANDROID SMARTPHONE
+1. Tap on "WLAN" and select Scenic Guest. 
+2. Enter the password Spaceship1 and click on the "View more" option.
+3. Scroll down to MAC address type and select the "Phone MAC" option.
+4. You are then connected to the WLAN. 
+
+APPLE IOS SMARTPHONE
+1. Select the Scenic Guest WLAN and enter the password Spaceship1.
+2. Click on the blue "i" symbol.
+3. Deactivate the private WLAN address and click on "Next".
+4. Exit the "Settings" and then you are connected to the WLAN.
